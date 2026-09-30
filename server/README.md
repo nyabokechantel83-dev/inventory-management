@@ -39,3 +39,6 @@ inventory-management/
         ├── test_api.py
         ├── test_cli.py
         └── test_external_api.py
+        ## Project Status
+
+This project was built as part of a Flask REST API summative lab.
